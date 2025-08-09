@@ -11,8 +11,19 @@ you can install Gtk4 for python with pip
 
 first install pycairo with this command :
 
-~~~python  pip install pycairo ~~~
 
+~~~shell
+pip install pycairo
+~~~
+
+
+and next install gtk for python with this command : 
+
+~~~shell
+pip install PyGObject
+~~~
+
+Congratulations, you have successfully installed GTK on your Python. 😍
 ## use Gtk4 in python 
 
 
