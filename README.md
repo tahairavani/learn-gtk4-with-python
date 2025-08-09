@@ -7,3 +7,17 @@ If you liked it and I was able to help you on your way to learning GTK, I would 
 
 ## install Gtk4 for python 
 
+you can install Gtk4 for python with pip
+
+first install pycairo with this command :
+
+``` pip install pycairo ```
+
+and next install gtk with this command : 
+
+``` pip install PyGObject ``` 
+
+## use Gtk4 in python 
+
+
+
