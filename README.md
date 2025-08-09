@@ -15,6 +15,13 @@ first install pycairo with this command :
 pip install pycairo
 ~~~
 
+and next install gtk for python with this command : 
+
+~~~shell
+pip install PyGObject
+~~~
+
+Congratulations, you have successfully installed GTK on your Python. 😍
 ## use Gtk4 in python 
 
 
