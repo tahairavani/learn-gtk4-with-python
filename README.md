@@ -25,6 +25,14 @@ pip install PyGObject
 
 Congratulations, you have successfully installed GTK on your Python. 😍
 ## use Gtk4 in python 
+for use gtk version 4 need to import gi library and config it ,and next import Gtk with this command
 
+~~~python
+import gi
+#setup to version 4.0
+gi.require_version('Gtk','4.0')
+#import Gtk 
+from gi.repository import Gtk
+~~~
 
 
