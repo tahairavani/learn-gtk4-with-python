@@ -45,3 +45,11 @@ def on_open_application(app):
     window = Gtk.ApplicationWindow(application = app) # create window
     window.present() # show window
 ~~~
+
+secend step : create your application and connect to your window and in last step run it !
+~~~python
+app = Gtk.Application() # create application
+app.connect("activate",on_open_application) # connect your application to window
+
+app.run(None) #start your application
+~~~
