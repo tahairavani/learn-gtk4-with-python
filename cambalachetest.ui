@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Cambalache 0.96.1 -->
+<interface>
+  <!-- interface-name cambalachetest.ui -->
+  <requires lib="gtk" version="4.18"/>
+  <object class="GtkApplication"/>
+  <object class="GtkApplicationWindow">
+    <child>
+      <object class="GtkBox">
+        <property name="baseline-child">0</property>
+        <property name="homogeneous">True</property>
+        <property name="margin-bottom">28</property>
+        <property name="width-request">6</property>
+        <child>
+          <object class="GtkListBox">
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkButton">
+                <property name="label">google domain name server</property>
+              </object>
+            </child>
+          </object>
+        </child>
+        <child>
+          <object class="GtkBox">
+            <property name="orientation">vertical</property>
+          </object>
+        </child>
+        <style>
+          <class/>
+          <class/>
+          <class/>
+        </style>
+      </object>
+    </child>
+  </object>
+  <object class="GtkListItem"/>
+</interface>
