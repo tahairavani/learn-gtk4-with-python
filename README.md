@@ -53,3 +53,7 @@ app.connect("activate",on_open_application) # connect your application to window
 
 app.run(None) #start your application
 ~~~
+
+<div align="center">
+<img src="assets/screenshot/first-app-screenshot.png">
+</div>
